@@ -1,0 +1,2 @@
+# minipixels
+Small texturepack
