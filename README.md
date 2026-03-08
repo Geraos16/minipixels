@@ -3,6 +3,7 @@
 ## What's planned?
 - Its planned to support MTG game completely, plus just as Pixel Perfection XT support most used mods that u can find on contentDB
 ![Preview del pack](Showcase.png)
+Note: Some of the textures on this image havent been renamed and added, but this is the current state of the pack
 ### Which mods?
 - MTG (WIP)
 - 3d_armor (WIP)
