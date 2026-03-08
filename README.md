@@ -2,6 +2,7 @@
 > 8x8 Texture pack, made out of my free time and how i wanted the game to look like, its not complete yet and MTG is still in progress to be completely supported, but its already quite playable it uses some palettes of Pixel Perfection and core MTG alike, but the textures are made by me
 ## What's planned?
 - Its planned to support MTG game completely, plus just as Pixel Perfection XT support most used mods that u can find on contentDB
+![Preview del pack](Showcase.png)
 ### Which mods?
 - MTG (WIP)
 - 3d_armor (WIP)
